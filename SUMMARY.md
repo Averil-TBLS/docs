@@ -2,6 +2,9 @@
 
 * [Welcome](README.md)
 
+## Maccas FivePD
+* [Rules](https://github.com/Averil-TBLS/docs/blob/main/maccasfivepd/rules.md)
+
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
