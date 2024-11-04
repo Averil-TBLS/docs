@@ -1,11 +1,11 @@
 ---
 icon: file-lines
-description: Rules of Maccas FivePD
+description: >-
+  Staff reserves the right to provide final interpretation and make any
+  necessary adjustments.
 ---
 
 # Rules
-
-***
 
 ## 1. General Rules
 
