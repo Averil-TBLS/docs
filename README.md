@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -20,9 +20,9 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to our new document!&#x20;
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Everything is under development, you are welcome to join us!
 
 ### Jump right in
 
