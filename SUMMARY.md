@@ -4,11 +4,7 @@
 
 ## Maccas FivePD
 
-* [Rules](https://github.com/Averil-TBLS/docs/blob/main/maccasfivepd/rules.md)
-
-## Maccas FivePD
-
-* [Rules](maccas-fivepd-1/rules.md)
+* [Rules](maccas-fivepd/rules.md)
 
 ## Getting Started
 
