@@ -78,7 +78,7 @@ description: >-
 
 ### 2.4: Zoning
 
-* Green Zones - Admin properties; these are zero hostility area
+* Green Zones - Admin properties; these are zero hostility areas.
 * Red Zones - Aircraft carrier and military base; only authorized personnel may enter.
 
 ### 2.5: Emergency Service Interaction
@@ -108,6 +108,7 @@ description: >-
 ### 3.3: Evading Staff
 
 * Players must interact with staff when pursued with **Green/Green Yellow** lights on.
+* **Green/Green Yellow** lights will pause all roleplay and taken over by the sfaff or admin.
 
 ### 3.4: Impersonating Staff
 
