@@ -58,17 +58,17 @@ description: >-
 
 ### 2.1: Baiting
 
-* **2.1.1:** Cop baiting and civ baiting are prohibited.
-* **2.1.2:** Civ baiting refers to police officers baiting civilians to get a reaction for arrest.
+* Cop baiting and civ baiting are prohibited.
+* Civ baiting refers to police officers baiting civilians to get a reaction for arrest.
 
 ### 2.2: Radio
 
 * Players must use the radio appropriately at all times.
-  * **2.2.1:** Stay in appropriate radio channels.
-  * **2.2.2:** Maintain Radio Traffic Only (RTO).
-  * **2.2.3:** Use appropriate call signs.
-  * **2.2.4:** Avoid interrupting others.
-  * **2.2.5:** Civilians should not use emergency radio channels.
+  * Stay in appropriate radio channels.
+  * Maintain Radio Traffic Only (RTO).
+  * Use appropriate call signs.
+  * Avoid interrupting others.
+  * Civilians should not use emergency radio channels.
 
 ### 2.3: Chain of Command
 
@@ -78,18 +78,18 @@ description: >-
 
 ### 2.4: Zoning
 
-* **2.4.1:** Green Zones - Admin properties; these are zero hostility area
-* **2.4.2:** Red Zones - Aircraft carrier and military base; only authorized personnel may enter.
+* Green Zones - Admin properties; these are zero hostility area
+* Red Zones - Aircraft carrier and military base; only authorized personnel may enter.
 
 ### 2.5: Emergency Service Interaction
 
-* **2.5.1:** Police may stop, arrest, or prosecute emergency service players for misconduct.
-* **2.5.2:** Tackle cuffing/instant cuffing is prohibited.
-* **2.5.3:** Offenders must be stationary for two full seconds before being cuffed.
-* **2.5.4:** Using a taser or vehicle to stop an offender must be the last resort.
-* **2.5.5:** Shooting a taser from a vehicle is prohibited.
-* **2.5.6:** Do not self-attach to callouts.
-* **2.5.7:** Ensure scenes are fully cleared up before leaving.
+* Police may stop, arrest, or prosecute emergency service players for misconduct.
+* Tackle cuffing/instant cuffing is prohibited.
+* Offenders must be stationary for two full seconds before being cuffed.
+* Using a taser or vehicle to stop an offender must be the last resort.
+* Shooting a taser from a vehicle is prohibited.
+* Do not self-attach to callouts.
+* Ensure scenes are fully cleared up before leaving.
 
 ### 2.6: Departments
 
@@ -123,48 +123,48 @@ description: >-
 
 ### 3.7: Multiple Accounts on a Single GTA or Steam License
 
-* **3.7.1:** Any staff action taken on one account affect all linked accounts.
-* **3.7.2:** Players are responsible for your account usage.
+* Any staff action taken on one account affect all linked accounts.
+* Players are responsible for your account usage.
 
 ## 4. Vehicle Conduct
 
 ### 4.1: Appropriate Vehicle Behavior
 
-* **4.1.1:** Emergency vehicle modifications require leadership approval.
-* **4.1.1:** Keep vehicles realistic.
-* **4.1.2:** Report large or disruptive vehicles to staff.
-* **4.1.3:** On-duty players should use appropriate vehicles.
-* **4.1.5:** Reckless driving without valid roleplay reason is prohibited.
+* Emergency vehicle modifications require leadership approval.
+* Keep vehicles realistic.
+* Report large or disruptive vehicles to staff.
+* On-duty players should use appropriate vehicles.
+* Reckless driving without valid roleplay reason is prohibited.
 
 ### 4.2: Player Responsibility
 
-* **4.2.1:** Players are responsible for ensuring vehicle appropriateness.
+* Players are responsible for ensuring vehicle appropriateness.
 
 ## 5. Player Clothing/Weapons
 
 ### 5.1: Outfits
 
-* **5.1.1:** Players must wear appropriate clothing.
-* **5.1.2:** On-duty emergency players must wear the appropriate uniform.
-* **5.1.3:** Civilians cannot wear emergency service identifiers.
+* Players must wear appropriate clothing.
+* On-duty emergency players must wear the appropriate uniform.
+* Civilians cannot wear emergency service identifiers.
 
 ### 5.2: Weapons
 
-* **5.2.1:** Only use weapons appropriate for your active role.
-* **5.2.2:** EMS/FD may not have any weapons.
-* **5.2.3:** Illegal discharge of firearms is prohibited.
+* Only use weapons appropriate for your active role.
+* EMS/FD may not have any weapons.
+* Illegal discharge of firearms is prohibited.
 
 ## 6. Civilian Conduct
 
 ### 6.1: Civilian RP Rules
 
-* **6.1.1:** Civilians need to be off duty.
-* **6.1.2:** Civilians are encouraged to roleplay with emergency services.
-* **6.1.3:** Civilians should not create scenarios outside of **AOP** (Area of Patrol/Play).
+* Civilians need to be off duty.
+* Civilians are encouraged to roleplay with emergency services.
+* Civilians should not create scenarios outside of **AOP** (Area of Patrol/Play).
 
 ### 6.2: Specialized Scenes
 
-* **6.2.1:** Specialized scenes below require approval from **Admin+**.
+* Specialized scenes below require approval from **Admin+**.
   * Includes use of aircraft.
   * Situations where 3+ civilians armed with firearms.
   * Commercial robberies involving 4+ civilians.
