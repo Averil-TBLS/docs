@@ -47,18 +47,16 @@ description: >-
 
 ### 1.9: New Life Rule
 
-* Players must refrain from re-engaging with a scene after their character dies in roleplay.
+* Players must refrain from re-engaging with a scene after your character dies in roleplay.
 * The rule applies to all emergency services and civilian interactions.
 
 ### 1.10: No RDM or VDM
 
 * Random Death Match (RDM) and Vehicle Death Match (VDM) are not allowed.
 
-***
-
 ## 2. FivePD Roleplay
 
-### 2.1: Interjecting
+### 2.1: Baiting
 
 * **2.1.1:** Cop baiting and civ baiting are prohibited.
 * **2.1.2:** Civ baiting refers to police officers baiting civilians to get a reaction for arrest.
@@ -74,13 +72,13 @@ description: >-
 
 ### 2.3: Chain of Command
 
-* Players must follow the Chain of Command.
+* Players must follow the Chain of Command within reason.
 * Higher-ranked players may take command or assign tasks.
 * Failure to follow instructions may be considered FailRP.
 
 ### 2.4: Zoning
 
-* **2.4.1:** Green Zones - Admin properties.
+* **2.4.1:** Green Zones - Admin properties; these are zero hostility area
 * **2.4.2:** Red Zones - Aircraft carrier and military base; only authorized personnel may enter.
 
 ### 2.5: Emergency Service Interaction
@@ -96,8 +94,6 @@ description: >-
 ### 2.6: Departments
 
 * Players can only be part of one specialist department per character at a time.
-
-***
 
 ## 3. Staff Interaction
 
@@ -119,24 +115,22 @@ description: >-
 
 ### 3.5: Staff Conduct
 
-* Report any mistreatment by staff via the **Thinblueline Studio** Discord channel.
+* Report any mistreatment by staff via the [**ThinBlueLine Studio**](https://discord.gg/Y5Hqc4xApW) Discord channel.
 
 ### 3.6: No Disturbing Admin
 
-* Do not disturb administrators or Board of Directors members during their duties.
+* Do not disturb administrators or developers during their duties.
 
 ### 3.7: Multiple Accounts on a Single GTA or Steam License
 
-* Actions taken on one account affect all linked accounts.
-* Players are responsible for account usage.
-
-***
+* **3.7.1:** Any staff action taken on one account affect all linked accounts.
+* **3.7.2:** Players are responsible for your account usage.
 
 ## 4. Vehicle Conduct
 
 ### 4.1: Appropriate Vehicle Behavior
 
-* Emergency vehicle modifications require leadership approval.
+* **4.1.1:** Emergency vehicle modifications require leadership approval.
 * **4.1.1:** Keep vehicles realistic.
 * **4.1.2:** Report large or disruptive vehicles to staff.
 * **4.1.3:** On-duty players should use appropriate vehicles.
@@ -144,34 +138,36 @@ description: >-
 
 ### 4.2: Player Responsibility
 
-* Players are responsible for ensuring vehicle appropriateness.
-
-***
+* **4.2.1:** Players are responsible for ensuring vehicle appropriateness.
 
 ## 5. Player Clothing/Weapons
 
 ### 5.1: Outfits
 
-* Players must wear appropriate clothing.
-* **5.1.1:** On-duty emergency players must wear the appropriate uniform.
-* **5.1.2:** Civilians cannot wear emergency service identifiers.
+* **5.1.1:** Players must wear appropriate clothing.
+* **5.1.2:** On-duty emergency players must wear the appropriate uniform.
+* **5.1.3:** Civilians cannot wear emergency service identifiers.
 
 ### 5.2: Weapons
 
-* Only use weapons appropriate for your active role.
-* Illegal discharge of firearms is prohibited.
-
-***
+* **5.2.1:** Only use weapons appropriate for your active role.
+* **5.2.2:** EMS/FD may not have any weapons.
+* **5.2.3:** Illegal discharge of firearms is prohibited.
 
 ## 6. Civilian Conduct
 
 ### 6.1: Civilian RP Rules
 
-* Civilians need to be off duty when appropriate.
-* Civilians are encouraged to roleplay with emergency services.
-* **6.1.3:** Civilians should not create scenarios outside of **AOP** (Area of Play).
+* **6.1.1:** Civilians need to be off duty.
+* **6.1.2:** Civilians are encouraged to roleplay with emergency services.
+* **6.1.3:** Civilians should not create scenarios outside of **AOP** (Area of Patrol/Play).
 
 ### 6.2: Specialized Scenes
 
-* Specialized scenes require approval from **admin+**.
-  * Includes use of aircraft, commercial robberies, scenes involving 10+ civilians, etc.
+* **6.2.1:** Specialized scenes below require approval from **Admin+**.
+  * Includes use of aircraft.
+  * Situations where 3+ civilians armed with firearms.
+  * Commercial robberies involving 4+ civilians.
+  * Scenes involving 10+ civilians.
+  * Scenes where emergency services personnel are taken hostage.
+  * Scenes set in or including Cayo Perico.
